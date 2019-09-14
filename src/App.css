@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+  width:50%;
+  margin: 0 auto;
+}
+.row {
+  display: flex;
+}
+.btn {
+  flex: 1;
+  font-size: 18pt;
+  height:100px;
+  margin: 5px;
+  transition: all  0.5s linear;
+  background: yellowgreen;
+  cursor: default;
+  border-radius: 10px;
+  border: 1px solid rgb(75, 102, 75);
+}
+.display {
+  background: whitesmoke;
+  height: 32px;
+  width: 100%;
+  direction: rtl;
+  margin: 5px;
+  font-size: 22pt;
+  padding: 4px;
+  border-radius: 10px;
+  border: 1px solid rgb(75, 102, 75);
+
+}
+.btn:hover {
+  background: rgb(80, 109, 23);
+  cursor: pointer;
+}
