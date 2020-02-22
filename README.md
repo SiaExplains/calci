@@ -12,8 +12,4 @@ To run this project just use this command:
 
 ---
 
-Contcat information:
-
-+98-9120229077
-
 [My personal website](https://codewithsia.com)
